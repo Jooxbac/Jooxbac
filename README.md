@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jooxbac
-- 👀 I’m interested in learning about web development mainly, at my own pace.
+- 👀 I’m interested in learning about web development, mainly, at my own pace.
 - 🌱 I’m currently learning web development: Java, HTML5, CSS...
 - 💞️ I’m looking to collaborate on NOTHING wight now!
 - 📫 How to reach me: wdjacobo@gmail.com
