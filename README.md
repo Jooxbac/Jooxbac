@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jooxbac
-- 👀 I’m interested in learning about web development, mainly, at my own pace.
-- 🌱 I’m currently learning web development: Java, SQL, HTML5, CSS, PHP and JavaScript.
-- 💞️ I’m looking to collaborate on NOTHING right now!
+- 🌱 Currently learning web development.
+- 👀 Interested in learning about web development and related topics.
+- 💞️ I’m looking to collaborate on whatever I find interesting!
 - 📫 How to reach me: wdjacobo@gmail.com
 
 <!---
